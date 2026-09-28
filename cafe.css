@@ -1,0 +1,869 @@
+header{
+    box-shadow: 0 5px 10px rgba(187, 61, 61, 0.08);
+}
+#logo{
+    height: 70px;
+}
+.navbar{
+    width: 90%; 
+    max-width: 1200px; 
+    min-height: 85px; 
+    margin:auto;
+     display: flex;
+      justify-content:space-between; 
+      align-items:center;
+      padding-right: 150px;
+}
+
+.heading{
+       width: 90%; 
+    max-width: 1200px; 
+    min-height: 85px; 
+    margin:auto;
+     display: flex;
+      justify-content:space-between; 
+      align-items:center;
+      padding-right: 150px;
+}
+.heading a{
+    color: antiquewhite;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: 800;
+    font-size: medium;
+    text-decoration: none;
+}
+.heading a:hover{
+    color: rgb(120, 25, 125);
+    transition-delay: 2ms;
+}
+#name{
+    padding-left: 0px;
+    padding-right: 250px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    font-weight: bolder;
+    color: antiquewhite;
+}
+
+#signup{
+    height: 35px;
+    width: 85px;
+    color: black;
+    background-color:antiquewhite;
+    border-width: 1px;
+    border-radius: 5px;
+    border-style: solid;
+    font-weight: 600;
+}
+#signup:active{
+    background-color:rgb(120, 25, 125);
+    transition-delay: 2ms;
+}
+.heroo{
+    width:100%;
+    max-width: 2000px;
+    min-height: 600px;
+    display: flex;
+    align-items:center;
+    justify-content:space-between;
+    
+    
+}
+.hero{
+    width: 50%;
+     padding-top: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: larger;
+    padding-left: 50px;
+}
+#heroh1{
+padding-left: 90px;
+color: antiquewhite;
+}
+#heroh3{
+    padding-left: 90px;
+    color: rgb(213, 202, 187);
+}
+#herop{
+    padding-top: 30px;
+    padding-left: 250px;
+    font-weight: 200;
+    font-size: medium;
+    color: rgb(139, 6, 88);
+}
+
+#herobutton{
+    margin-top: 10px;
+    margin-left: 310px;
+    height: 35px;
+    width: 120px;
+    color:black;
+    background-color: antiquewhite;
+    border-width: 1px;
+    border-radius: 15px;
+    border-style: solid;
+    font-weight: 600;
+}
+
+#herobutton:active{
+    background-color: rgb(120, 25, 125);
+    transition-delay: 2ms;
+}
+.fl{
+
+    padding-top: 30px;
+    font-size: small;
+    font-weight: light;
+    padding-left: 320px;
+    color: rgb(153, 153, 148);
+}
+#coffee{
+    height: 500px;
+    width: 550px;
+    border-width: 1px;
+    border-style: solid;
+    border-color:aliceblue;
+    border-radius: 25px;
+}
+
+body{
+    background-color: #170901;
+}
+html { scroll-behavior:smooth }
+
+
+.main{
+    width: 90%;
+    max-width: 1200px; 
+    min-height: 85px; 
+    margin:auto;
+     display: flex;
+      justify-content: space-between; 
+      align-items:center;
+      flex-direction: row;
+}
+
+#c{
+    height: 300px;
+    width:250px;
+    padding-left: 250px;
+}
+
+#o{
+    height: 300px;
+    width: 250px;
+}
+
+#f{
+    height: 300px;
+    width: 250px;
+}
+
+#ff{
+    height: 300px;
+    width: 250px;
+    padding-left:250px ;
+    padding-top: 20px;
+}
+
+#e{
+    height: 300px;
+    width: 250px;
+}
+
+#ee{
+    height: 300px;
+    width: 250px;
+}
+.ourmenu{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: larger;
+    font-weight: bolder;
+    color: antiquewhite;
+    padding-left: 725px;
+}
+.rate{
+    color: antiquewhite;
+    display: flex;
+    padding-left: 280px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+.rate p{
+    padding-right: 120px;
+}
+.rate2{
+    color: antiquewhite;
+    display: flex;
+    padding-left: 280px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+.rate2 p{
+    padding-right: 120px;
+}
+
+
+.about-left{
+    width: 90%;
+    width: 90%;
+    max-width: 1200px; 
+    min-height: 85px; 
+    margin:auto;
+     display: inline;
+      justify-content: space-between; 
+      align-items:center;
+}
+
+#aboutus{
+    color: rgb(228, 155, 72);
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size:xx-large;
+    font-weight: lighter;
+    padding-left: 300px;
+}
+
+#aboutus1{
+        color:antiquewhite;
+        padding-left: 300px;
+        font-weight: bolder;
+}
+
+#aboutus2{
+    color: antiquewhite;
+    padding-left: 300px;
+    font-style: oblique;
+}
+
+#about{
+    display: flex;
+}
+
+#aboutphoto{
+    height: 550px;
+    width: 500px;
+    padding-top: 100px;
+    padding-right: 140px;
+}
+
+.contact-over{
+    color: antiquewhite;
+    padding-left: 700px;
+    padding-top: 70px;
+    font-size:larger;
+}
+
+
+.contact-info{
+    width: 90%;
+    max-width: 1200px;
+    min-height:85px;
+    color: antiquewhite;
+    justify-content:space-between;
+    text-items: center;
+    display: flex;
+    padding-right: 60px;
+    padding-left: 100px;
+    padding-top: 50px;
+}
+
+#a1{
+    display:inline;
+    font-size: large;
+    font-weight: 700;
+}
+
+#o1{
+    display: inline;
+    font-size: large;
+    font-weight: 700;
+}
+
+#p1{
+    display: inline;
+font-size: large;
+font-weight: 700;}
+
+
+.contactform{
+    width: 35%;
+    max-width: 1200px;
+    min-height: 85px;
+    margin: auto;
+    display:flex;
+    padding-top: 40px;
+    padding-left: 1000px;
+    justify-content: space-between;
+    align-items: center;
+    background-color:antiquewhite;
+    height: 350px;
+}
+.cf-right{
+    display:flex;
+}
+form input{
+    background-color:white ;
+    color: #170901;
+    height: 40px;
+    width: 380px;
+    font-size:small;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 10px;
+    margin-top: 10px;
+
+}
+
+form button{
+    background-color: #170901;
+    height: 30px;
+    width: 75px;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 10px;
+    color: antiquewhite;
+}
+.contactbutton{
+    padding-left: 300px;
+    padding-top: 15px;
+    color: antiquewhite;
+}
+#submit:hover{
+    background-color:rgb(120, 25, 125) ;
+    transition-delay: 2ms;
+}
+#msg{
+    height:100px ;
+}
+form h2{
+    color:#170901;
+    padding-left: 10px;
+}
+.footer{
+    color: antiquewhite;
+    padding-left: 580px;
+}
+
+@media (max-width: 600px) {
+    .navbar{
+        width: 3000px;
+        padding-left: 100px;
+        flex-direction: row;
+        position: 15px;
+    }
+    .heading{
+        flex-wrap: wrap;
+
+    }
+
+    header{
+    box-shadow: 0  0 rgba(187, 61, 61, 0.08);
+}
+
+#heroh1{
+    font-size:25px;
+    padding-left: 150px;
+    padding-top: 20px;
+}
+
+#heroh3{
+    font-size: 15px;
+    font-weight: 100;
+    
+    padding-left: 150px;
+}
+#herop{
+    font-size: 10px;
+    padding-left: 150px;
+}
+#hero-right{
+    padding-left: 500px;
+}
+
+#coffee{
+    height: 450px;
+    width: 450px;
+}
+.heroo{
+   flex-direction: row;
+   text-align: center;
+}
+#herobutton{
+    margin-left: 110px;
+}
+#hr1{
+    margin-left: 140px;
+}
+.fl{
+    font-size: 0px;
+}
+
+.ourmenu{
+    padding-left: 700px;
+    padding-top: 40px;
+}
+
+.main{
+    width: 90%;
+    min-height: 85px; 
+    margin:auto;
+     display: flex;
+      justify-content: space-between; 
+      align-items:center;
+      flex-direction: row;
+      padding-left: 400px;
+}
+#c{
+    height: 250px;
+    width:200px;
+    padding-left: 20px;
+}
+
+#o{
+    height: 250px;
+    width: 200px;
+}
+
+#f{
+    height: 250px;
+    width: 200px;
+}
+
+#ff{
+    height: 250px;
+    width: 200px;
+    padding-left:20px ;
+    padding-top: 20px;
+}
+
+#e{
+    height: 250px;
+    width: 200px;
+}
+
+#ee{
+    height: 250px;
+    width: 200px;
+}
+
+.rate{
+    color: antiquewhite;
+    display: flex;
+    padding-left: 70px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+.rate p{
+    padding-right: 120px;
+}
+.rate2{
+    color: antiquewhite;
+    display: flex;
+    padding-left: 70px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+.rate2 p{
+    padding-right: 120px;
+}
+
+.about-left{
+    width: 90%;
+    max-width: 1200px; 
+    min-height: 85px; 
+    margin:auto;
+     display: inline;
+      justify-content: space-between; 
+      align-items:center;
+}
+
+#aboutus{
+    padding-top: 60px;
+    padding-left: 250px;
+}
+
+#aboutus1{
+        color:antiquewhite;
+        padding-left: 250px;
+        font-weight: bolder;
+        font-size: large;
+}
+
+#aboutus2{
+    color: antiquewhite;
+    padding-left: 250px;
+    font-style: oblique;
+    font-size: small;
+}
+
+#about{
+    display: flex;
+}
+
+#aboutphoto{
+    height: 550px;
+    width: 500px;
+    padding-top: 200px;
+    padding-left: 400px;
+}
+
+.contact-over{
+    color: antiquewhite;
+    padding-left: 650px;
+    padding-top: 70px;
+    font-size:larger;
+}
+
+
+.contact-info{
+    width: 90%;
+    max-width: 1200px;
+    min-height:85px;
+    color: antiquewhite;
+    justify-content:space-between;
+    align-items: center;
+    display: flex;
+    padding-left: 550px;
+    font-size: small;
+}
+
+#a1{
+    display:inline;
+    font-size: large;
+    font-weight: 700;
+}
+
+#o1{
+    display: inline;
+    font-size: large;
+    font-weight: 700;
+}
+
+#p1{
+    display: inline;
+font-size: large;
+font-weight: 700;}
+
+
+.contactform{
+    width: 115%;
+    justify-content: space-between;
+    align-items: center;
+    background-color:antiquewhite;
+    height: 350px;
+}
+.cf-right{
+    display:flex;
+}
+
+form button{
+    background-color: #170901;
+    height: 30px;
+    width: 75px;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 10px;
+    color: antiquewhite;
+}
+.contactbutton{
+    padding-left: 300px;
+    padding-top: 15px;
+    color: antiquewhite;
+}
+#submit:hover{
+    background-color:rgb(120, 25, 125) ;
+    transition-delay: 2ms;
+}
+#msg{
+    height:100px ;
+}
+form h2{
+    color:#170901;
+    padding-left: 10px;
+}
+.footer{
+    color: antiquewhite;
+    font-size: small;
+    padding-left: 30px;
+    text-align: center;
+    height: 60px;
+}
+}
+
+@media (max-width: 900px) {
+header{
+    box-shadow: 0 0px 0px rgba(187, 61, 61, 0.08);
+}
+
+.navbar{
+        width: 3000px;
+        padding-left: 200px;
+        flex-direction: row;
+        position: 15px;
+        height: 120px;
+    }
+    .heading{
+        flex-wrap: wrap;
+
+    }
+
+#heroh1{
+    font-size:40px;
+    padding-left: 250px;
+    padding-top: 30px;
+}
+
+#heroh3{
+    font-size: 30px;
+    font-weight: 100;
+    
+    padding-left: 250px;
+}
+#herop{
+    font-size: 20px;
+    padding-left: 250px;
+}
+#hero-right{
+    padding-left: 300px;
+}
+
+#coffee{
+    height: 550px;
+    width: 600px;
+}
+.heroo{
+   flex-direction: row;
+   text-align: center;
+}
+#herobutton{
+    margin-left: 240px;
+}
+#hr1{
+    margin-left: 240px;
+}
+.fl{
+    font-size: 0px;
+}
+
+.ourmenu{
+    padding-left: 750px;
+    padding-top: 40px;
+    font-size: xx-large;
+}
+
+.about-left{
+    width: 90%;
+    max-width: 1200px; 
+    min-height: 85px; 
+    margin:auto;
+     display: inline;
+      justify-content: space-between; 
+      align-items:center;
+}
+
+#aboutus{
+    padding-top: 60px;
+    padding-left: 250px;
+}
+
+#aboutus1{
+        color:antiquewhite;
+        padding-left: 250px;
+        font-weight: bolder;
+        font-size: large;
+}
+
+#aboutus2{
+    color: antiquewhite;
+    padding-left: 250px;
+    font-style: oblique;
+    font-size: small;
+}
+
+#about{
+    display: flex;
+}
+
+#aboutphoto{
+    height: 550px;
+    width: 500px;
+    padding-top: 200px;
+    padding-left: 400px;
+}
+
+.contact-over{
+    color: antiquewhite;
+    padding-left: 700px;
+    padding-top: 70px;
+    font-size:larger;
+}
+
+
+.contact-info{
+    width: 90%;
+    max-width: 1200px;
+    min-height:85px;
+    color: antiquewhite;
+    justify-content:space-between;
+    align-items: center;
+    display: flex;
+    padding-left: 350px;
+    font-size: small;
+}
+
+#a1{
+    display:inline;
+    font-size: large;
+    font-weight: 700;
+}
+
+#o1{
+    display: inline;
+    font-size: large;
+    font-weight: 700;
+}
+
+#p1{
+    display: inline;
+font-size: large;
+font-weight: 700;}
+
+.main{
+    width: 90%;
+    min-height: 85px; 
+    margin:auto;
+     display: flex;
+      justify-content: space-between; 
+      align-items:center;
+      flex-direction: row;
+      padding-left: 500px;
+}
+#c{
+    height: 250px;
+    width:200px;
+    padding-left: 20px;
+}
+
+#o{
+    height: 250px;
+    width: 200px;
+}
+
+#f{
+    height: 250px;
+    width: 200px;
+}
+
+#ff{
+    height: 250px;
+    width: 200px;
+    padding-left:20px ;
+    padding-top: 20px;
+}
+
+#e{
+    height: 250px;
+    width: 200px;
+}
+
+#ee{
+    height: 250px;
+    width: 200px;
+}
+
+.rate{
+    color: antiquewhite;
+    display: flex;
+    padding-left: 70px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+.rate p{
+    padding-right: 120px;
+}
+.rate2{
+    color: antiquewhite;
+    display: flex;
+    padding-left: 70px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: large;
+}
+.rate2 p{
+    padding-right: 120px;
+}
+.contactform{
+    width: 95%;
+    max-width: 1200px;
+    min-height: 85px;
+    margin: auto;
+    display:flex;
+    padding-top: 40px;
+    padding-left: 1000px;
+    justify-content: space-between;
+    align-items: center;
+    background-color:antiquewhite;
+    height: 350px;
+}
+.cf-right{
+    display:flex;
+}
+form input{
+    background-color:white ;
+    color: #170901;
+    height: 40px;
+    width: 380px;
+    font-size:small;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 10px;
+    margin-top: 10px;
+
+}
+
+form button{
+    background-color: #170901;
+    height: 30px;
+    width: 75px;
+    border-width: 1px;
+    border-style: solid;
+    border-radius: 10px;
+    color: antiquewhite;
+}
+.contactbutton{
+    padding-left: 300px;
+    padding-top: 15px;
+    color: antiquewhite;
+}
+#submit:hover{
+    background-color:rgb(120, 25, 125) ;
+    transition-delay: 2ms;
+}
+#msg{
+    height:100px ;
+}
+form h2{
+    color:#170901;
+    padding-left: 10px;
+}
+.footer{
+    display: inline;
+    font-size: medium;
+    text-align: center;
+    height: 20px;
+    color: antiquewhite;
+    padding-left: 880px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+    
+
