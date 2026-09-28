@@ -1,0 +1,202 @@
+.navbar{
+    padding:20px;
+}
+
+#one{
+    margin-left: 75px;
+    margin-right: 0px;
+    font-weight: 900;
+    font-size: large;
+}
+#two{
+    margin-left: 0px;
+    margin-right: 0px;
+    font-weight: bolder;
+    font-size: large;
+    color:rgba(14, 14, 193, 0.75);
+}
+#three{
+    margin-left:1000px;
+    margin-right: 5px;
+    text-decoration: none;
+}
+
+#four{
+    margin-left: 25px;
+    margin-right: 5px;
+    text-decoration: none;
+}
+
+#five{
+    margin-left: 25px;
+    margin-right: 5px;
+    text-decoration: none;
+}
+
+#six{
+    margin-left: 25px;
+    margin-right: 5px;
+    text-decoration: none;
+}
+
+header{
+    margin-top: 15px;
+    height:75px;
+    background-color:white;
+}
+
+#content{
+    height:330px;
+    display:flex;
+    padding-left: 90px;
+    padding-top: 30px;
+    padding-bottom: 20px;
+    background-color:#c7d6e4;
+;
+}
+
+#content-right{
+    padding-top: 70px;
+    padding-left: 750px;
+    
+}
+
+
+#sev{
+    color: grey;
+}
+
+#eight{
+     color:rgba(14, 14, 193, 0.75);
+}
+
+button{
+    border-width: 1px;
+    border-color:rgba(14, 14, 193, 0.75);
+    border-radius: 7px;
+    border-style: solid;
+    color:white;
+    height: 30px;
+    width: 100px;
+    background-color:rgba(14, 14, 193, 0.75);
+}
+
+#vani{
+    height:160px;
+    border-width: 1px;
+    border-style:none;
+    border-radius: 85px;
+}
+
+#about{
+    padding-top: 25px;
+    display: flex;
+    padding-left: 90px;
+    padding-bottom: 20px;
+    background-color: white;
+}
+
+#resume{
+    border-width: 2px;
+    border-color:rgba(14, 14, 193, 0.75);
+    border-radius: 7px;
+    border-style: solid;
+    color:rgba(14, 14, 193, 0.75);
+    height: 40px;
+    width: 150px;
+    
+    background-color:white;
+    font-weight: bold;
+}
+
+#about-right{
+    padding-top: 30px;
+padding-left: 700px;
+}
+#lap{
+    height:150px;
+}
+
+#skills{
+    padding-left: 100px;
+    padding-top:10px ;
+    padding-right: 0px;
+    background-color:#c7d6e4 ;
+    height:250px;
+}
+
+#html{
+    padding-right: 15px;
+}
+#css{
+    padding-right: 15px;
+    padding-left: 190px;
+}
+#js{
+    padding-right: 15px;
+    padding-left: 190px;
+}
+#gear{
+    padding-right: 15px;
+    padding-left: 190px;
+}
+
+#contact{
+    padding-left: 45px;
+    display: flex;
+    height:270px;
+    background-color: white;
+}
+#contact-right{
+    padding-top: 50px;
+    padding-left: 600px;
+}
+#name{
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: grey;
+    width:280px;
+    height:20px;
+}
+#email{
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: grey;
+    width:280px;
+    height:20px;
+}
+#message{
+    border-style: solid;
+    border-radius: 10px;
+    border-width: 2px;
+    border-color: grey;
+    width:280px;
+    height:60px;
+}
+#sendmsg{
+    border-width: 2px;
+    border-color:rgba(14, 14, 193, 0.75);
+    border-radius: 7px;
+    border-style: solid;
+    background:rgba(14, 14, 193, 0.75);
+    height: 30px;
+    width: 150px;
+    
+    color:white;
+    font-weight: bold;
+}
+#foot{
+    padding-top: 10px;
+    color: white;
+}
+
+#footer{
+    background-color: navy;
+    padding-left: 650px;
+    height:50px;
+}
+body{
+    background-color: #c7d6e4;
+}
