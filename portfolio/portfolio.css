@@ -86,6 +86,8 @@ button{
     border-width: 1px;
     border-style:none;
     border-radius: 85px;
+    max-width: 100%;
+    height: auto;
 }
 
 #about{
