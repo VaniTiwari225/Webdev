@@ -5,7 +5,7 @@ Welcome to my **Web Development Repository!** 🚀
 This repository contains my frontend web development projects, built while learning and practicing **HTML and CSS**. Each project helps me improve my coding skills, UI design, and understanding of responsive web development.
 
 #Preview:
-Have a look at my overall project:
+Have a look at my overall project: https://amazonclone-fawn-gamma.vercel.app/
 
 
 https://github.com/user-attachments/assets/04f89390-fc27-4864-9971-cc6847baa9fb 
