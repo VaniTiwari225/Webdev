@@ -1,5 +1,4 @@
-##Flex Grow:
-A visually engaging football website showcasing some of the greatest football legends, their career journeys, achievements, and memorable clubs.
+⚽ SoccerSphere – Football LegendsA visually engaging football website showcasing some of the greatest football legends, their career journeys, achievements, and memorable clubs.
 
 ## 🌐 Live Demo
 
